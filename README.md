@@ -1,4 +1,4 @@
-# Weather CLI Tool 🌤️
+# Weather CLI Tool 🌤️ https://roadmap.sh/projects/weather-api-wrapper-service
 
 A simple command-line application that fetches real-time weather data for any city using the OpenWeatherMap API.
 
@@ -110,4 +110,4 @@ This project is open source and available under the MIT License.
 David ([eight0s](https://github.com/eight0s)) - First Year University Student
 
 Built as part of learning Python and API integration.
-https://roadmap.sh/projects/weather-api-wrapper-service
+
