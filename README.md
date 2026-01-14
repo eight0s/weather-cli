@@ -1,4 +1,4 @@
-# Weather CLI Tool 🌤️ https://roadmap.sh/projects/weather-api-wrapper-service
+# Weather CLI Tool 🌤️ 
 
 A simple command-line application that fetches real-time weather data for any city using the OpenWeatherMap API.
 
